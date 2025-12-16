@@ -1,2 +1,2 @@
 # TechCoders
-Hacethon of techsrint
+Hacethon of techsprint
